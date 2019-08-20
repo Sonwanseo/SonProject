@@ -1,0 +1,18 @@
+body {
+    background-color : #CDEBEF;
+}
+
+.all {
+    text-align: center;
+}
+
+img {
+    height: 200px;
+    width: 280px;
+}
+
+p {
+    color: #E82B1B;
+    font-size: 25px;
+    font-weight: bolder;
+}

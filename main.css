@@ -1,0 +1,39 @@
+body {
+    background-color : #CDEBEF;
+}
+
+.all {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+p {
+    color: #EDA460;
+    font-size: 20px;
+}
+
+.top {
+    padding: -3px;
+    border: 3.5px solid #F8EAB2;
+    margin: 5px 440px;
+}
+
+span {
+    color: white;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: black;
+}
+
+img {
+    border-radius: 30px;
+    height: 620px;
+    width: 500px;
+}
