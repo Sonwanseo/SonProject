@@ -16,3 +16,19 @@ p {
     font-size: 25px;
     font-weight: bolder;
 }
+
+.text {
+    margin: 20px;
+}
+
+.top {
+    margin: 10px;
+}
+
+.middle {
+    margin: 10px;
+}
+
+.bottom {
+    margin: 10px;
+}

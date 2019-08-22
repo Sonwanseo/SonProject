@@ -6,3 +6,11 @@ video {
     width: 49%;
     height: 49%;
 }
+
+.top {
+    margin: 5px 5px;
+}
+
+.bottom {
+    margin: 5px 5px;
+}
